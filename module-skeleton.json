@@ -1,0 +1,15 @@
+{
+  "repository": "module-sap-revenue-operations-flutter",
+  "capabilityKey": "planned:sap:revenue-operations",
+  "presentation": "mobile-flutter",
+  "package": "module_sap_revenue_operations_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/sap/nextjs/revenue-operations.md",
+  "presentationPlan": "projects/sap/flutter/revenue-operations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "sap"
+  ]
+}
